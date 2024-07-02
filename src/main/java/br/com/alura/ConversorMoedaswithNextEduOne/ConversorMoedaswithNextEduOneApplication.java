@@ -1,6 +1,6 @@
 package br.com.alura.ConversorMoedaswithNextEduOne;
 
-import br.com.alura.ConversorMoedaswithNextEduOne.services.Main;
+import br.com.alura.ConversorMoedaswithNextEduOne.principal.Main;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
